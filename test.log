@@ -1,0 +1,14 @@
+{"level":"INFO","ts":"2020-09-30T15:37:10.312+0800","caller":"blog_tpl/main.go:29","msg":"init mysql success"}
+{"level":"ERROR","ts":"2020-09-30T15:37:10.313+0800","caller":"blog_tpl/main.go:30","msg":"init redis success ","error":"fail fail fail"}
+{"level":"INFO","ts":"2020-09-30T15:52:44.418+0800","caller":"blog_tpl/main.go:29","msg":"init mysql success"}
+{"level":"ERROR","ts":"2020-09-30T15:52:44.420+0800","caller":"blog_tpl/main.go:30","msg":"init redis success ","error":"fail fail fail"}
+{"level":"INFO","ts":"2020-09-30T15:53:09.731+0800","caller":"blog_tpl/main.go:29","msg":"init mysql success"}
+{"level":"ERROR","ts":"2020-09-30T15:53:09.731+0800","caller":"blog_tpl/main.go:30","msg":"init redis success ","error":"fail fail fail"}
+{"level":"INFO","ts":"2020-09-30T16:16:43.038+0800","caller":"blog_tpl/main.go:31","msg":"init mysql success"}
+{"level":"ERROR","ts":"2020-09-30T16:16:43.039+0800","caller":"blog_tpl/main.go:32","msg":"init redis success ","error":"fail fail fail"}
+{"level":"INFO","ts":"2020-09-30T16:16:46.496+0800","caller":"middlewares/logger.go:23","msg":"/api/article/index","status":200,"method":"GET","path":"/api/article/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36","errors":"","cost":0.000149645}
+{"level":"INFO","ts":"2020-09-30T16:31:29.155+0800","caller":"blog_tpl/main.go:38","msg":"init mysql success"}
+{"level":"ERROR","ts":"2020-09-30T16:31:29.157+0800","caller":"blog_tpl/main.go:39","msg":"init redis success ","error":"fail fail fail"}
+{"level":"INFO","ts":"2020-09-30T16:58:17.286+0800","caller":"blog_tpl/main.go:38","msg":"init mysql success"}
+{"level":"ERROR","ts":"2020-09-30T16:58:17.287+0800","caller":"blog_tpl/main.go:39","msg":"init redis success ","error":"fail fail fail"}
+{"level":"INFO","ts":"2020-09-30T17:59:07.565+0800","caller":"middlewares/logger.go:24","msg":"/api/article/index","status":200,"method":"GET","path":"/api/article/index","query":"","ip":"127.0.0.1","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36","errors":"","cost":0.000139055}

@@ -1,0 +1,19 @@
+app:
+  mode: "debug"
+  # 密码加盐串
+  secret: "Flzx3_qc5dskd:[+<!$@ms"
+  machine_id: 123
+
+mysql:
+  host: "127.0.0.999"
+  port: 3306
+  db: "zdm"
+  user: "root"
+  password: "Flzx3_qc"
+
+redis:
+  host: "127.0.0.4"
+  port: 6379
+
+log:
+  level: "info"
